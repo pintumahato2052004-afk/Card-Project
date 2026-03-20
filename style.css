@@ -102,6 +102,55 @@ button{
 .buy-4{
     background: #ff9f43;
 }
+.buy-5{
+    background: orange;
+}
+.buy-6{
+    background: magenta;
+}
+.buy-7{
+    background: chocolate;
+}
+.buy-8{
+    background: #222f3e;
+}
+.buy-9{
+    background: red
+}
+.buy-10{
+    background: #041a32;
+}
+.buy-11{
+    background: greenyellow;
+}
+.buy-12{
+    background: darkgray;
+}
+.buy-13{
+    background: darkmagenta;
+}
+.buy-14{
+    background: darkslategrey;
+}
+.buy-15{
+    background: green;
+}
+.buy-16{
+    background: darkviolet;
+}
+.buy-17{
+    background: darkblue;
+}
+.buy-18{
+    background: lawngreen;
+}
+.buy-19{
+    background: darkseagreen;
+}
+.buy-20{
+    background: pink;
+}
+
 @media (max-width:1000px){
     .content{
         width: 45%;
